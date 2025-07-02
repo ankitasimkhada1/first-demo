@@ -1,3 +1,4 @@
 # first-demo
-This is my first git repo
-author-Ankita Simkhada
+This is my first git repo.
+<br>
+Author-Ankita Simkhada
